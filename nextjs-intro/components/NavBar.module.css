@@ -1,0 +1,8 @@
+.active {
+  background-color: pink;
+  color: gray;
+}
+
+.link {
+  text-decoration: none;
+}
